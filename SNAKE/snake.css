@@ -1,0 +1,9 @@
+body{
+	font-family: 'Courier New', Courier, monospace;
+	text-align: center;
+	background: ghostwhite;
+}
+
+canvas{
+	border: 5px solid black;
+}
